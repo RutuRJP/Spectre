@@ -1,0 +1,6 @@
+12551706498,,cycles:u,5491741600,100.00,,
+27983986623,,instructions:u,5491741600,100.00,2.23,insn per cycle
+8000025527,,branches:u,5491741600,100.00,,
+24327863,,branch-misses:u,5491741600,100.00,0.30,of all branches
+1210237,,cache-references:u,5491741600,100.00,,
+163472,,cache-misses:u,5491741600,100.00,13.51,of all cache refs

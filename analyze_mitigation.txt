@@ -1,0 +1,40 @@
+======================================================================
+PHASE 5: MITIGATION AWARENESS ANALYSIS
+======================================================================
+[+] Parsed 150 runs
+[+] Computed features for 150 samples
+
+  spectre_baseline (n=50):
+    ipc                 : mean=0.4169  std=0.0078
+    branch_miss_rate    : mean=0.3536  std=0.0433
+    cache_miss_rate     : mean=50.4613  std=3.0180
+
+  spectre_retpoline (n=50):
+    ipc                 : mean=0.4155  std=0.0057
+    branch_miss_rate    : mean=0.3856  std=0.0438
+    cache_miss_rate     : mean=47.1217  std=0.1189
+
+  spectre_optimized (n=50):
+    ipc                 : mean=0.4211  std=0.0046
+    branch_miss_rate    : mean=0.8617  std=0.2119
+    cache_miss_rate     : mean=47.1688  std=0.1453
+
+======================================================================
+ MITIGATION AWARENESS — MODEL PREDICTIONS
+======================================================================
+
+--- Variant: spectre_baseline (50 samples) ---
+  Logistic Regression      : 50/50 detected as Spectre (100.0%)
+  Random Forest            : 50/50 detected as Spectre (100.0%)
+  SVM (RBF)                : 50/50 detected as Spectre (100.0%)
+
+--- Variant: spectre_retpoline (50 samples) ---
+  Logistic Regression      : 50/50 detected as Spectre (100.0%)
+  Random Forest            : 50/50 detected as Spectre (100.0%)
+  SVM (RBF)                : 50/50 detected as Spectre (100.0%)
+
+--- Variant: spectre_optimized (50 samples) ---
+  Logistic Regression      : 50/50 detected as Spectre (100.0%)
+  Random Forest            : 50/50 detected as Spectre (100.0%)
+  SVM (RBF)                : 50/50 detected as Spectre (100.0%)
+[+] Saved mitigation_comparison.png

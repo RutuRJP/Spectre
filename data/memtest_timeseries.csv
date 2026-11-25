@@ -1,0 +1,29 @@
+#           time             counts unit events
+     0.100193200         57,849,975      cycles:u                                                              
+     0.100193200        129,791,158      instructions:u                   #    2.24  insn per cycle            
+     0.100193200              7,993      cache-misses:u                                                        
+     0.100193200              2,177      branch-misses:u                                                       
+     0.209969000         56,897,968      cycles:u                                                              
+     0.209969000        124,127,029      instructions:u                   #    2.18  insn per cycle            
+     0.209969000              2,787      cache-misses:u                                                        
+     0.209969000                173      branch-misses:u                                                       
+     0.318382500         58,184,901      cycles:u                                                              
+     0.318382500        130,299,269      instructions:u                   #    2.24  insn per cycle            
+     0.318382500              2,425      cache-misses:u                                                        
+     0.318382500                 79      branch-misses:u                                                       
+     0.429269999         59,861,770      cycles:u                                                              
+     0.429269999        134,854,969      instructions:u                   #    2.25  insn per cycle            
+     0.429269999              1,828      cache-misses:u                                                        
+     0.429269999                 68      branch-misses:u                                                       
+     0.539185699         58,106,510      cycles:u                                                              
+     0.539185699        131,076,048      instructions:u                   #    2.26  insn per cycle            
+     0.539185699              1,655      cache-misses:u                                                        
+     0.539185699                 42      branch-misses:u                                                       
+     0.649874199        198,059,375      cycles:u                                                              
+     0.649874199        604,442,008      instructions:u                   #    3.05  insn per cycle            
+     0.649874199          4,757,069      cache-misses:u                                                        
+     0.649874199                 95      branch-misses:u                                                       
+     0.724376699         75,728,104      cycles:u                                                              
+     0.724376699        238,762,697      instructions:u                   #    3.15  insn per cycle            
+     0.724376699          2,007,673      cache-misses:u                                                        
+     0.724376699                272      branch-misses:u                                                       

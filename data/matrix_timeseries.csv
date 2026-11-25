@@ -1,0 +1,9 @@
+#           time             counts unit events
+     0.100185000        211,185,001      cycles:u                                                              
+     0.100185000        390,618,573      instructions:u                   #    1.85  insn per cycle            
+     0.100185000             53,272      cache-misses:u                                                        
+     0.100185000             82,423      branch-misses:u                                                       
+     0.144877800         96,692,922      cycles:u                                                              
+     0.144877800        178,274,062      instructions:u                   #    1.84  insn per cycle            
+     0.144877800             14,483      cache-misses:u                                                        
+     0.144877800             22,218      branch-misses:u                                                       

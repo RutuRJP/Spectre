@@ -1,0 +1,380 @@
+#           time             counts unit events
+     0.100189799        209,841,766      cycles:u                                                              
+     0.100189799         93,251,117      instructions:u                   #    0.44  insn per cycle            
+     0.100189799            562,003      cache-misses:u                                                        
+     0.100189799            118,595      branch-misses:u                                                       
+     0.212252799        256,530,730      cycles:u                                                              
+     0.212252799        116,374,469      instructions:u                   #    0.45  insn per cycle            
+     0.212252799            662,663      cache-misses:u                                                        
+     0.212252799            145,084      branch-misses:u                                                       
+     0.323453598        254,682,170      cycles:u                                                              
+     0.323453598        113,580,334      instructions:u                   #    0.45  insn per cycle            
+     0.323453598            684,003      cache-misses:u                                                        
+     0.323453598            143,133      branch-misses:u                                                       
+     0.435208697        246,444,564      cycles:u                                                              
+     0.435208697        105,994,602      instructions:u                   #    0.43  insn per cycle            
+     0.435208697            666,589      cache-misses:u                                                        
+     0.435208697            136,045      branch-misses:u                                                       
+     0.545919197        256,297,569      cycles:u                                                              
+     0.545919197        110,968,434      instructions:u                   #    0.43  insn per cycle            
+     0.545919197            659,466      cache-misses:u                                                        
+     0.545919197            139,077      branch-misses:u                                                       
+     0.657743396        259,395,947      cycles:u                                                              
+     0.657743396        116,344,831      instructions:u                   #    0.45  insn per cycle            
+     0.657743396            673,929      cache-misses:u                                                        
+     0.657743396            145,869      branch-misses:u                                                       
+     0.767101495        241,256,478      cycles:u                                                              
+     0.767101495        109,046,731      instructions:u                   #    0.45  insn per cycle            
+     0.767101495            630,974      cache-misses:u                                                        
+     0.767101495            136,606      branch-misses:u                                                       
+     0.877084694        253,457,856      cycles:u                                                              
+     0.877084694        114,995,060      instructions:u                   #    0.45  insn per cycle            
+     0.877084694            660,889      cache-misses:u                                                        
+     0.877084694            143,902      branch-misses:u                                                       
+     0.988333894        252,830,799      cycles:u                                                              
+     0.988333894        112,617,009      instructions:u                   #    0.45  insn per cycle            
+     0.988333894            653,821      cache-misses:u                                                        
+     0.988333894            141,414      branch-misses:u                                                       
+     1.099412593        256,401,469      cycles:u                                                              
+     1.099412593        115,678,022      instructions:u                   #    0.45  insn per cycle            
+     1.099412593            680,371      cache-misses:u                                                        
+     1.099412593            144,881      branch-misses:u                                                       
+     1.210912192        256,267,118      cycles:u                                                              
+     1.210912192        114,567,701      instructions:u                   #    0.45  insn per cycle            
+     1.210912192            667,438      cache-misses:u                                                        
+     1.210912192            146,078      branch-misses:u                                                       
+     1.321851592        255,493,236      cycles:u                                                              
+     1.321851592        113,611,483      instructions:u                   #    0.44  insn per cycle            
+     1.321851592            670,546      cache-misses:u                                                        
+     1.321851592            146,293      branch-misses:u                                                       
+     1.431485491        252,056,927      cycles:u                                                              
+     1.431485491        112,372,153      instructions:u                   #    0.45  insn per cycle            
+     1.431485491            673,609      cache-misses:u                                                        
+     1.431485491            141,469      branch-misses:u                                                       
+     1.543287890        256,995,545      cycles:u                                                              
+     1.543287890        115,807,758      instructions:u                   #    0.45  insn per cycle            
+     1.543287890            665,752      cache-misses:u                                                        
+     1.543287890            144,380      branch-misses:u                                                       
+     1.654500589        256,126,823      cycles:u                                                              
+     1.654500589        116,109,184      instructions:u                   #    0.45  insn per cycle            
+     1.654500589            667,077      cache-misses:u                                                        
+     1.654500589            145,129      branch-misses:u                                                       
+     1.765782889        256,911,162      cycles:u                                                              
+     1.765782889        114,446,924      instructions:u                   #    0.45  insn per cycle            
+     1.765782889            667,800      cache-misses:u                                                        
+     1.765782889            146,620      branch-misses:u                                                       
+     1.876700788        256,911,889      cycles:u                                                              
+     1.876700788        117,107,011      instructions:u                   #    0.46  insn per cycle            
+     1.876700788            663,090      cache-misses:u                                                        
+     1.876700788            148,318      branch-misses:u                                                       
+     1.988007387        254,115,932      cycles:u                                                              
+     1.988007387        114,858,024      instructions:u                   #    0.45  insn per cycle            
+     1.988007387            663,976      cache-misses:u                                                        
+     1.988007387            148,075      branch-misses:u                                                       
+     2.099995287        260,320,679      cycles:u                                                              
+     2.099995287        117,639,589      instructions:u                   #    0.45  insn per cycle            
+     2.099995287            671,630      cache-misses:u                                                        
+     2.099995287            151,362      branch-misses:u                                                       
+     2.210403086        252,159,258      cycles:u                                                              
+     2.210403086        113,058,512      instructions:u                   #    0.45  insn per cycle            
+     2.210403086            654,489      cache-misses:u                                                        
+     2.210403086            144,869      branch-misses:u                                                       
+     2.321708182        254,622,998      cycles:u                                                              
+     2.321708182        114,886,515      instructions:u                   #    0.45  insn per cycle            
+     2.321708182            661,221      cache-misses:u                                                        
+     2.321708182            144,803      branch-misses:u                                                       
+     2.432940577        257,437,570      cycles:u                                                              
+     2.432940577        116,872,761      instructions:u                   #    0.45  insn per cycle            
+     2.432940577            663,075      cache-misses:u                                                        
+     2.432940577            146,555      branch-misses:u                                                       
+     2.544057673        257,599,453      cycles:u                                                              
+     2.544057673        116,004,747      instructions:u                   #    0.45  insn per cycle            
+     2.544057673            663,369      cache-misses:u                                                        
+     2.544057673            147,526      branch-misses:u                                                       
+     2.655193368        257,959,365      cycles:u                                                              
+     2.655193368        117,628,461      instructions:u                   #    0.46  insn per cycle            
+     2.655193368            663,291      cache-misses:u                                                        
+     2.655193368            148,997      branch-misses:u                                                       
+     2.766924463        259,977,195      cycles:u                                                              
+     2.766924463        118,172,149      instructions:u                   #    0.45  insn per cycle            
+     2.766924463            673,295      cache-misses:u                                                        
+     2.766924463            149,707      branch-misses:u                                                       
+     2.878488459        260,236,907      cycles:u                                                              
+     2.878488459        117,983,670      instructions:u                   #    0.45  insn per cycle            
+     2.878488459            668,550      cache-misses:u                                                        
+     2.878488459            148,017      branch-misses:u                                                       
+#           time             counts unit events
+     2.989754454        256,200,648      cycles:u                                                              
+     2.989754454        115,682,113      instructions:u                   #    0.45  insn per cycle            
+     2.989754454            665,804      cache-misses:u                                                        
+     2.989754454            145,759      branch-misses:u                                                       
+     3.101882150        259,093,327      cycles:u                                                              
+     3.101882150        117,826,347      instructions:u                   #    0.45  insn per cycle            
+     3.101882150            668,793      cache-misses:u                                                        
+     3.101882150            145,949      branch-misses:u                                                       
+     3.213187445        257,905,321      cycles:u                                                              
+     3.213187445        116,650,710      instructions:u                   #    0.45  insn per cycle            
+     3.213187445            661,738      cache-misses:u                                                        
+     3.213187445            145,549      branch-misses:u                                                       
+     3.323851140        253,873,222      cycles:u                                                              
+     3.323851140        114,280,252      instructions:u                   #    0.45  insn per cycle            
+     3.323851140            657,322      cache-misses:u                                                        
+     3.323851140            145,273      branch-misses:u                                                       
+     3.435416236        258,510,915      cycles:u                                                              
+     3.435416236        118,126,666      instructions:u                   #    0.46  insn per cycle            
+     3.435416236            665,376      cache-misses:u                                                        
+     3.435416236            149,383      branch-misses:u                                                       
+     3.547005231        258,276,033      cycles:u                                                              
+     3.547005231        116,918,009      instructions:u                   #    0.45  insn per cycle            
+     3.547005231            667,749      cache-misses:u                                                        
+     3.547005231            146,425      branch-misses:u                                                       
+     3.657938126        256,491,589      cycles:u                                                              
+     3.657938126        116,622,239      instructions:u                   #    0.45  insn per cycle            
+     3.657938126            674,135      cache-misses:u                                                        
+     3.657938126            145,308      branch-misses:u                                                       
+     3.768237522        251,407,454      cycles:u                                                              
+     3.768237522        113,308,853      instructions:u                   #    0.45  insn per cycle            
+     3.768237522            662,403      cache-misses:u                                                        
+     3.768237522            141,945      branch-misses:u                                                       
+     3.879632417        258,262,684      cycles:u                                                              
+     3.879632417        117,414,817      instructions:u                   #    0.45  insn per cycle            
+     3.879632417            666,648      cache-misses:u                                                        
+     3.879632417            146,632      branch-misses:u                                                       
+     3.990876813        253,984,106      cycles:u                                                              
+     3.990876813        114,943,348      instructions:u                   #    0.45  insn per cycle            
+     3.990876813            658,555      cache-misses:u                                                        
+     3.990876813            144,716      branch-misses:u                                                       
+     4.101861508        250,864,843      cycles:u                                                              
+     4.101861508        112,814,270      instructions:u                   #    0.45  insn per cycle            
+     4.101861508            666,198      cache-misses:u                                                        
+     4.101861508            143,546      branch-misses:u                                                       
+     4.213820903        257,480,560      cycles:u                                                              
+     4.213820903        115,443,516      instructions:u                   #    0.45  insn per cycle            
+     4.213820903            671,172      cache-misses:u                                                        
+     4.213820903            146,516      branch-misses:u                                                       
+     4.325235599        256,039,476      cycles:u                                                              
+     4.325235599        115,442,937      instructions:u                   #    0.45  insn per cycle            
+     4.325235599            672,013      cache-misses:u                                                        
+     4.325235599            145,610      branch-misses:u                                                       
+     4.436844194        257,117,924      cycles:u                                                              
+     4.436844194        116,810,985      instructions:u                   #    0.45  insn per cycle            
+     4.436844194            664,625      cache-misses:u                                                        
+     4.436844194            145,460      branch-misses:u                                                       
+     4.548152490        257,657,983      cycles:u                                                              
+     4.548152490        117,170,971      instructions:u                   #    0.45  insn per cycle            
+     4.548152490            666,275      cache-misses:u                                                        
+     4.548152490            144,641      branch-misses:u                                                       
+     4.658105985        255,634,397      cycles:u                                                              
+     4.658105985        115,586,075      instructions:u                   #    0.45  insn per cycle            
+     4.658105985            663,599      cache-misses:u                                                        
+     4.658105985            143,816      branch-misses:u                                                       
+     4.768830980        254,518,415      cycles:u                                                              
+     4.768830980        116,162,256      instructions:u                   #    0.46  insn per cycle            
+     4.768830980            660,567      cache-misses:u                                                        
+     4.768830980            144,443      branch-misses:u                                                       
+     4.879923576        255,596,260      cycles:u                                                              
+     4.879923576        115,458,396      instructions:u                   #    0.45  insn per cycle            
+     4.879923576            665,328      cache-misses:u                                                        
+     4.879923576            144,633      branch-misses:u                                                       
+     4.990836671        256,528,096      cycles:u                                                              
+     4.990836671        116,196,565      instructions:u                   #    0.45  insn per cycle            
+     4.990836671            666,829      cache-misses:u                                                        
+     4.990836671            145,471      branch-misses:u                                                       
+     5.100360567        254,322,453      cycles:u                                                              
+     5.100360567        115,188,701      instructions:u                   #    0.45  insn per cycle            
+     5.100360567            664,422      cache-misses:u                                                        
+     5.100360567            144,420      branch-misses:u                                                       
+     5.211513262        257,100,012      cycles:u                                                              
+     5.211513262        116,372,534      instructions:u                   #    0.45  insn per cycle            
+     5.211513262            659,966      cache-misses:u                                                        
+     5.211513262            148,610      branch-misses:u                                                       
+     5.322992957        255,307,785      cycles:u                                                              
+     5.322992957        116,555,501      instructions:u                   #    0.46  insn per cycle            
+     5.322992957            661,032      cache-misses:u                                                        
+     5.322992957            148,274      branch-misses:u                                                       
+     5.433917753        257,226,605      cycles:u                                                              
+     5.433917753        116,266,362      instructions:u                   #    0.45  insn per cycle            
+     5.433917753            667,063      cache-misses:u                                                        
+     5.433917753            144,502      branch-misses:u                                                       
+     5.545299448        255,923,440      cycles:u                                                              
+     5.545299448        117,000,681      instructions:u                   #    0.46  insn per cycle            
+     5.545299448            660,271      cache-misses:u                                                        
+     5.545299448            145,465      branch-misses:u                                                       
+     5.656894244        257,149,325      cycles:u                                                              
+     5.656894244        117,225,205      instructions:u                   #    0.46  insn per cycle            
+     5.656894244            667,752      cache-misses:u                                                        
+     5.656894244            148,225      branch-misses:u                                                       
+     5.768413639        257,985,072      cycles:u                                                              
+     5.768413639        118,013,235      instructions:u                   #    0.46  insn per cycle            
+     5.768413639            667,447      cache-misses:u                                                        
+     5.768413639            149,726      branch-misses:u                                                       
+#           time             counts unit events
+     5.879401634        257,608,595      cycles:u                                                              
+     5.879401634        117,079,293      instructions:u                   #    0.45  insn per cycle            
+     5.879401634            667,568      cache-misses:u                                                        
+     5.879401634            148,621      branch-misses:u                                                       
+     5.990093930        253,651,328      cycles:u                                                              
+     5.990093930        115,278,859      instructions:u                   #    0.45  insn per cycle            
+     5.990093930            660,630      cache-misses:u                                                        
+     5.990093930            143,024      branch-misses:u                                                       
+     6.101601125        258,840,853      cycles:u                                                              
+     6.101601125        115,669,533      instructions:u                   #    0.45  insn per cycle            
+     6.101601125            680,355      cache-misses:u                                                        
+     6.101601125            143,632      branch-misses:u                                                       
+     6.213173520        254,712,689      cycles:u                                                              
+     6.213173520        113,963,006      instructions:u                   #    0.45  insn per cycle            
+     6.213173520            680,692      cache-misses:u                                                        
+     6.213173520            144,728      branch-misses:u                                                       
+     6.324156516        258,119,427      cycles:u                                                              
+     6.324156516        116,845,869      instructions:u                   #    0.45  insn per cycle            
+     6.324156516            666,533      cache-misses:u                                                        
+     6.324156516            147,992      branch-misses:u                                                       
+     6.434220111        255,894,760      cycles:u                                                              
+     6.434220111        114,813,938      instructions:u                   #    0.45  insn per cycle            
+     6.434220111            662,952      cache-misses:u                                                        
+     6.434220111            146,627      branch-misses:u                                                       
+     6.545424707        258,034,924      cycles:u                                                              
+     6.545424707        116,751,360      instructions:u                   #    0.45  insn per cycle            
+     6.545424707            664,106      cache-misses:u                                                        
+     6.545424707            148,811      branch-misses:u                                                       
+     6.656427902        254,816,215      cycles:u                                                              
+     6.656427902        116,498,545      instructions:u                   #    0.46  insn per cycle            
+     6.656427902            664,323      cache-misses:u                                                        
+     6.656427902            149,281      branch-misses:u                                                       
+     6.767623897        254,147,359      cycles:u                                                              
+     6.767623897        114,741,858      instructions:u                   #    0.45  insn per cycle            
+     6.767623897            662,612      cache-misses:u                                                        
+     6.767623897            146,438      branch-misses:u                                                       
+     6.878963393        258,037,234      cycles:u                                                              
+     6.878963393        117,460,746      instructions:u                   #    0.46  insn per cycle            
+     6.878963393            670,029      cache-misses:u                                                        
+     6.878963393            150,019      branch-misses:u                                                       
+     6.990360088        255,718,836      cycles:u                                                              
+     6.990360088        115,076,257      instructions:u                   #    0.45  insn per cycle            
+     6.990360088            665,936      cache-misses:u                                                        
+     6.990360088            144,954      branch-misses:u                                                       
+     7.101476384        258,121,246      cycles:u                                                              
+     7.101476384        115,976,650      instructions:u                   #    0.45  insn per cycle            
+     7.101476384            662,507      cache-misses:u                                                        
+     7.101476384            144,515      branch-misses:u                                                       
+     7.212639379        254,156,845      cycles:u                                                              
+     7.212639379        114,899,178      instructions:u                   #    0.45  insn per cycle            
+     7.212639379            661,017      cache-misses:u                                                        
+     7.212639379            143,523      branch-misses:u                                                       
+     7.324186174        256,305,798      cycles:u                                                              
+     7.324186174        116,766,281      instructions:u                   #    0.46  insn per cycle            
+     7.324186174            667,690      cache-misses:u                                                        
+     7.324186174            145,126      branch-misses:u                                                       
+     7.435002170        256,393,626      cycles:u                                                              
+     7.435002170        117,003,282      instructions:u                   #    0.46  insn per cycle            
+     7.435002170            662,676      cache-misses:u                                                        
+     7.435002170            144,718      branch-misses:u                                                       
+     7.546115065        256,274,263      cycles:u                                                              
+     7.546115065        116,533,455      instructions:u                   #    0.45  insn per cycle            
+     7.546115065            666,402      cache-misses:u                                                        
+     7.546115065            145,973      branch-misses:u                                                       
+     7.657130861        256,121,605      cycles:u                                                              
+     7.657130861        117,155,743      instructions:u                   #    0.46  insn per cycle            
+     7.657130861            660,220      cache-misses:u                                                        
+     7.657130861            145,756      branch-misses:u                                                       
+     7.766126856        251,378,638      cycles:u                                                              
+     7.766126856        114,191,164      instructions:u                   #    0.45  insn per cycle            
+     7.766126856            653,112      cache-misses:u                                                        
+     7.766126856            142,842      branch-misses:u                                                       
+     7.876977351        256,895,568      cycles:u                                                              
+     7.876977351        117,064,329      instructions:u                   #    0.46  insn per cycle            
+     7.876977351            661,151      cache-misses:u                                                        
+     7.876977351            145,273      branch-misses:u                                                       
+     7.986595347        251,874,345      cycles:u                                                              
+     7.986595347        113,586,004      instructions:u                   #    0.45  insn per cycle            
+     7.986595347            657,777      cache-misses:u                                                        
+     7.986595347            141,953      branch-misses:u                                                       
+     8.097387342        256,600,418      cycles:u                                                              
+     8.097387342        116,826,248      instructions:u                   #    0.46  insn per cycle            
+     8.097387342            662,793      cache-misses:u                                                        
+     8.097387342            144,812      branch-misses:u                                                       
+     8.208800838        258,500,460      cycles:u                                                              
+     8.208800838        117,809,797      instructions:u                   #    0.46  insn per cycle            
+     8.208800838            664,346      cache-misses:u                                                        
+     8.208800838            145,931      branch-misses:u                                                       
+     8.320098333        258,373,019      cycles:u                                                              
+     8.320098333        117,273,969      instructions:u                   #    0.45  insn per cycle            
+     8.320098333            671,091      cache-misses:u                                                        
+     8.320098333            145,014      branch-misses:u                                                       
+     8.431026128        256,155,697      cycles:u                                                              
+     8.431026128        115,998,251      instructions:u                   #    0.45  insn per cycle            
+     8.431026128            657,742      cache-misses:u                                                        
+     8.431026128            144,766      branch-misses:u                                                       
+     8.542526924        259,168,848      cycles:u                                                              
+     8.542526924        117,593,725      instructions:u                   #    0.45  insn per cycle            
+     8.542526924            671,061      cache-misses:u                                                        
+     8.542526924            148,005      branch-misses:u                                                       
+     8.653603119        257,541,569      cycles:u                                                              
+     8.653603119        117,590,318      instructions:u                   #    0.46  insn per cycle            
+     8.653603119            663,569      cache-misses:u                                                        
+     8.653603119            149,609      branch-misses:u                                                       
+#           time             counts unit events
+     8.764752115        255,010,784      cycles:u                                                              
+     8.764752115        115,455,047      instructions:u                   #    0.45  insn per cycle            
+     8.764752115            662,125      cache-misses:u                                                        
+     8.764752115            146,419      branch-misses:u                                                       
+     8.876071110        255,313,855      cycles:u                                                              
+     8.876071110        115,561,287      instructions:u                   #    0.45  insn per cycle            
+     8.876071110            660,875      cache-misses:u                                                        
+     8.876071110            143,991      branch-misses:u                                                       
+     8.987053305        256,138,037      cycles:u                                                              
+     8.987053305        115,537,310      instructions:u                   #    0.45  insn per cycle            
+     8.987053305            673,258      cache-misses:u                                                        
+     8.987053305            145,025      branch-misses:u                                                       
+     9.098428701        256,108,565      cycles:u                                                              
+     9.098428701        112,968,137      instructions:u                   #    0.44  insn per cycle            
+     9.098428701            679,727      cache-misses:u                                                        
+     9.098428701            142,959      branch-misses:u                                                       
+     9.208911396        255,602,496      cycles:u                                                              
+     9.208911396        116,413,047      instructions:u                   #    0.46  insn per cycle            
+     9.208911396            660,806      cache-misses:u                                                        
+     9.208911396            144,445      branch-misses:u                                                       
+     9.319999592        254,224,174      cycles:u                                                              
+     9.319999592        115,868,475      instructions:u                   #    0.46  insn per cycle            
+     9.319999592            660,859      cache-misses:u                                                        
+     9.319999592            145,341      branch-misses:u                                                       
+     9.431569287        255,378,908      cycles:u                                                              
+     9.431569287        116,635,003      instructions:u                   #    0.46  insn per cycle            
+     9.431569287            662,333      cache-misses:u                                                        
+     9.431569287            148,030      branch-misses:u                                                       
+     9.542969582        259,031,518      cycles:u                                                              
+     9.542969582        117,926,041      instructions:u                   #    0.46  insn per cycle            
+     9.542969582            666,051      cache-misses:u                                                        
+     9.542969582            150,039      branch-misses:u                                                       
+     9.653791378        255,926,610      cycles:u                                                              
+     9.653791378        116,275,794      instructions:u                   #    0.45  insn per cycle            
+     9.653791378            664,062      cache-misses:u                                                        
+     9.653791378            143,419      branch-misses:u                                                       
+     9.764898173        259,460,236      cycles:u                                                              
+     9.764898173        117,972,528      instructions:u                   #    0.45  insn per cycle            
+     9.764898173            664,951      cache-misses:u                                                        
+     9.764898173            145,707      branch-misses:u                                                       
+     9.876273869        254,454,868      cycles:u                                                              
+     9.876273869        112,634,162      instructions:u                   #    0.44  insn per cycle            
+     9.876273869            676,942      cache-misses:u                                                        
+     9.876273869            141,747      branch-misses:u                                                       
+     9.987406569        255,313,490      cycles:u                                                              
+     9.987406569        115,025,126      instructions:u                   #    0.45  insn per cycle            
+     9.987406569            668,630      cache-misses:u                                                        
+     9.987406569            142,846      branch-misses:u                                                       
+    10.099181269        253,563,785      cycles:u                                                              
+    10.099181269        113,543,978      instructions:u                   #    0.45  insn per cycle            
+    10.099181269            681,376      cache-misses:u                                                        
+    10.099181269            142,382      branch-misses:u                                                       
+    10.209779068        254,342,916      cycles:u                                                              
+    10.209779068        113,675,153      instructions:u                   #    0.45  insn per cycle            
+    10.209779068            662,303      cache-misses:u                                                        
+    10.209779068            142,629      branch-misses:u                                                       
+    10.320840172        256,910,301      cycles:u                                                              
+    10.320840172        114,094,961      instructions:u                   #    0.44  insn per cycle            
+    10.320840172            664,040      cache-misses:u                                                        
+    10.320840172            143,757      branch-misses:u                                                       
+    10.344581273         49,113,416      cycles:u                                                              
+    10.344581273         22,255,577      instructions:u                   #    0.45  insn per cycle            
+    10.344581273            130,235      cache-misses:u                                                        
+    10.344581273             28,169      branch-misses:u                                                       

@@ -1,0 +1,6 @@
+313113632,,cycles:u,141971400,100.00,,
+568892358,,instructions:u,141971400,100.00,1.82,insn per cycle
+41772526,,branches:u,141971400,100.00,,
+86964,,branch-misses:u,141971400,100.00,0.21,of all branches
+113550874,,cache-references:u,141971400,100.00,,
+73523,,cache-misses:u,141971400,100.00,0.06,of all cache refs

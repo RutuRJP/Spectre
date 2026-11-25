@@ -1,0 +1,6 @@
+556577964,,cycles:u,753885500,100.00,,
+1493352901,,instructions:u,753885500,100.00,2.68,insn per cycle
+33644353,,branches:u,753885500,100.00,,
+2727,,branch-misses:u,753885500,100.00,0.01,of all branches
+9779654,,cache-references:u,753885500,100.00,,
+6826298,,cache-misses:u,753885500,100.00,69.80,of all cache refs

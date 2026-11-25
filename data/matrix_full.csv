@@ -1,0 +1,180 @@
+319652509,,cycles:u,149539600,100.00,,
+568892360,,instructions:u,149539600,100.00,1.78,insn per cycle
+41772528,,branches:u,149539600,100.00,,
+87101,,branch-misses:u,149539600,100.00,0.21,of all branches
+114396184,,cache-references:u,149539600,100.00,,
+115388,,cache-misses:u,149539600,100.00,0.10,of all cache refs
+302178358,,cycles:u,137506200,100.00,,
+568892358,,instructions:u,137506200,100.00,1.88,insn per cycle
+41772526,,branches:u,137506200,100.00,,
+92372,,branch-misses:u,137506200,100.00,0.22,of all branches
+113561639,,cache-references:u,137506200,100.00,,
+85279,,cache-misses:u,137506200,100.00,0.08,of all cache refs
+331673270,,cycles:u,160888300,100.00,,
+568892361,,instructions:u,160888300,100.00,1.72,insn per cycle
+41772529,,branches:u,160888300,100.00,,
+185792,,branch-misses:u,160888300,100.00,0.44,of all branches
+116112908,,cache-references:u,160888300,100.00,,
+236470,,cache-misses:u,160888300,100.00,0.20,of all cache refs
+307073981,,cycles:u,138615800,100.00,,
+568892355,,instructions:u,138615800,100.00,1.85,insn per cycle
+41772523,,branches:u,138615800,100.00,,
+88767,,branch-misses:u,138615800,100.00,0.21,of all branches
+113249826,,cache-references:u,138615800,100.00,,
+45954,,cache-misses:u,138615800,100.00,0.04,of all cache refs
+312253844,,cycles:u,145684300,100.00,,
+568892360,,instructions:u,145684300,100.00,1.82,insn per cycle
+41772528,,branches:u,145684300,100.00,,
+92532,,branch-misses:u,145684300,100.00,0.22,of all branches
+107319456,,cache-references:u,145684300,100.00,,
+55318,,cache-misses:u,145684300,100.00,0.05,of all cache refs
+323547851,,cycles:u,149217200,100.00,,
+568892360,,instructions:u,149217200,100.00,1.76,insn per cycle
+41772528,,branches:u,149217200,100.00,,
+407284,,branch-misses:u,149217200,100.00,0.98,of all branches
+116514622,,cache-references:u,149217200,100.00,,
+80757,,cache-misses:u,149217200,100.00,0.07,of all cache refs
+307230444,,cycles:u,138929100,100.00,,
+568892359,,instructions:u,138929100,100.00,1.85,insn per cycle
+41772527,,branches:u,138929100,100.00,,
+86765,,branch-misses:u,138929100,100.00,0.21,of all branches
+110853021,,cache-references:u,138929100,100.00,,
+85512,,cache-misses:u,138929100,100.00,0.08,of all cache refs
+309604913,,cycles:u,139668700,100.00,,
+568892359,,instructions:u,139668700,100.00,1.84,insn per cycle
+41772527,,branches:u,139668700,100.00,,
+106566,,branch-misses:u,139668700,100.00,0.26,of all branches
+114139442,,cache-references:u,139668700,100.00,,
+64293,,cache-misses:u,139668700,100.00,0.06,of all cache refs
+303204044,,cycles:u,137281300,100.00,,
+568892355,,instructions:u,137281300,100.00,1.88,insn per cycle
+41772523,,branches:u,137281300,100.00,,
+92756,,branch-misses:u,137281300,100.00,0.22,of all branches
+108114489,,cache-references:u,137281300,100.00,,
+65043,,cache-misses:u,137281300,100.00,0.06,of all cache refs
+301103791,,cycles:u,134537600,100.00,,
+568892357,,instructions:u,134537600,100.00,1.89,insn per cycle
+41772525,,branches:u,134537600,100.00,,
+94036,,branch-misses:u,134537600,100.00,0.23,of all branches
+114196811,,cache-references:u,134537600,100.00,,
+50565,,cache-misses:u,134537600,100.00,0.04,of all cache refs
+313076174,,cycles:u,141298500,100.00,,
+568892357,,instructions:u,141298500,100.00,1.82,insn per cycle
+41772525,,branches:u,141298500,100.00,,
+86404,,branch-misses:u,141298500,100.00,0.21,of all branches
+111170667,,cache-references:u,141298500,100.00,,
+57239,,cache-misses:u,141298500,100.00,0.05,of all cache refs
+309817959,,cycles:u,142077500,100.00,,
+568892357,,instructions:u,142077500,100.00,1.84,insn per cycle
+41772525,,branches:u,142077500,100.00,,
+102589,,branch-misses:u,142077500,100.00,0.25,of all branches
+109870166,,cache-references:u,142077500,100.00,,
+66277,,cache-misses:u,142077500,100.00,0.06,of all cache refs
+300602137,,cycles:u,135980400,100.00,,
+568892358,,instructions:u,135980400,100.00,1.89,insn per cycle
+41772526,,branches:u,135980400,100.00,,
+86462,,branch-misses:u,135980400,100.00,0.21,of all branches
+113694434,,cache-references:u,135980400,100.00,,
+51474,,cache-misses:u,135980400,100.00,0.05,of all cache refs
+308340856,,cycles:u,139513500,100.00,,
+568892359,,instructions:u,139513500,100.00,1.85,insn per cycle
+41772527,,branches:u,139513500,100.00,,
+92009,,branch-misses:u,139513500,100.00,0.22,of all branches
+111270292,,cache-references:u,139513500,100.00,,
+58535,,cache-misses:u,139513500,100.00,0.05,of all cache refs
+303314804,,cycles:u,136007000,100.00,,
+568892357,,instructions:u,136007000,100.00,1.88,insn per cycle
+41772525,,branches:u,136007000,100.00,,
+86424,,branch-misses:u,136007000,100.00,0.21,of all branches
+114535357,,cache-references:u,136007000,100.00,,
+43832,,cache-misses:u,136007000,100.00,0.04,of all cache refs
+308097456,,cycles:u,141586300,100.00,,
+568892355,,instructions:u,141586300,100.00,1.85,insn per cycle
+41772523,,branches:u,141586300,100.00,,
+86569,,branch-misses:u,141586300,100.00,0.21,of all branches
+109930324,,cache-references:u,141586300,100.00,,
+47933,,cache-misses:u,141586300,100.00,0.04,of all cache refs
+312195832,,cycles:u,141125200,100.00,,
+568892360,,instructions:u,141125200,100.00,1.82,insn per cycle
+41772528,,branches:u,141125200,100.00,,
+87391,,branch-misses:u,141125200,100.00,0.21,of all branches
+112773447,,cache-references:u,141125200,100.00,,
+58834,,cache-misses:u,141125200,100.00,0.05,of all cache refs
+313184149,,cycles:u,140352300,100.00,,
+568892357,,instructions:u,140352300,100.00,1.82,insn per cycle
+41772525,,branches:u,140352300,100.00,,
+99948,,branch-misses:u,140352300,100.00,0.24,of all branches
+112105432,,cache-references:u,140352300,100.00,,
+62148,,cache-misses:u,140352300,100.00,0.06,of all cache refs
+300484881,,cycles:u,136963600,100.00,,
+568892356,,instructions:u,136963600,100.00,1.89,insn per cycle
+41772524,,branches:u,136963600,100.00,,
+86696,,branch-misses:u,136963600,100.00,0.21,of all branches
+109334728,,cache-references:u,136963600,100.00,,
+97615,,cache-misses:u,136963600,100.00,0.09,of all cache refs
+297017538,,cycles:u,133470800,100.00,,
+568892355,,instructions:u,133470800,100.00,1.92,insn per cycle
+41772523,,branches:u,133470800,100.00,,
+93849,,branch-misses:u,133470800,100.00,0.22,of all branches
+112207354,,cache-references:u,133470800,100.00,,
+52866,,cache-misses:u,133470800,100.00,0.05,of all cache refs
+311333774,,cycles:u,142290300,100.00,,
+568892358,,instructions:u,142290300,100.00,1.83,insn per cycle
+41772526,,branches:u,142290300,100.00,,
+87507,,branch-misses:u,142290300,100.00,0.21,of all branches
+109555616,,cache-references:u,142290300,100.00,,
+53877,,cache-misses:u,142290300,100.00,0.05,of all cache refs
+307991714,,cycles:u,138091500,100.00,,
+568892359,,instructions:u,138091500,100.00,1.85,insn per cycle
+41772527,,branches:u,138091500,100.00,,
+90921,,branch-misses:u,138091500,100.00,0.22,of all branches
+113601932,,cache-references:u,138091500,100.00,,
+42480,,cache-misses:u,138091500,100.00,0.04,of all cache refs
+304324949,,cycles:u,137407300,100.00,,
+568892357,,instructions:u,137407300,100.00,1.87,insn per cycle
+41772525,,branches:u,137407300,100.00,,
+86422,,branch-misses:u,137407300,100.00,0.21,of all branches
+111374840,,cache-references:u,137407300,100.00,,
+55672,,cache-misses:u,137407300,100.00,0.05,of all cache refs
+306901752,,cycles:u,137743500,100.00,,
+568892357,,instructions:u,137743500,100.00,1.85,insn per cycle
+41772525,,branches:u,137743500,100.00,,
+91432,,branch-misses:u,137743500,100.00,0.22,of all branches
+114376976,,cache-references:u,137743500,100.00,,
+52025,,cache-misses:u,137743500,100.00,0.05,of all cache refs
+306699228,,cycles:u,137406100,100.00,,
+568892355,,instructions:u,137406100,100.00,1.85,insn per cycle
+41772523,,branches:u,137406100,100.00,,
+86366,,branch-misses:u,137406100,100.00,0.21,of all branches
+114244837,,cache-references:u,137406100,100.00,,
+41169,,cache-misses:u,137406100,100.00,0.04,of all cache refs
+298809111,,cycles:u,134525100,100.00,,
+568892357,,instructions:u,134525100,100.00,1.90,insn per cycle
+41772525,,branches:u,134525100,100.00,,
+94322,,branch-misses:u,134525100,100.00,0.23,of all branches
+115323370,,cache-references:u,134525100,100.00,,
+56110,,cache-misses:u,134525100,100.00,0.05,of all cache refs
+304111291,,cycles:u,137904900,100.00,,
+568892356,,instructions:u,137904900,100.00,1.87,insn per cycle
+41772524,,branches:u,137904900,100.00,,
+93928,,branch-misses:u,137904900,100.00,0.22,of all branches
+112721949,,cache-references:u,137904900,100.00,,
+51789,,cache-misses:u,137904900,100.00,0.05,of all cache refs
+314677284,,cycles:u,141471900,100.00,,
+568892360,,instructions:u,141471900,100.00,1.81,insn per cycle
+41772528,,branches:u,141471900,100.00,,
+88494,,branch-misses:u,141471900,100.00,0.21,of all branches
+113948806,,cache-references:u,141471900,100.00,,
+54791,,cache-misses:u,141471900,100.00,0.05,of all cache refs
+309161911,,cycles:u,142227900,100.00,,
+568892355,,instructions:u,142227900,100.00,1.84,insn per cycle
+41772523,,branches:u,142227900,100.00,,
+93858,,branch-misses:u,142227900,100.00,0.22,of all branches
+115491002,,cache-references:u,142227900,100.00,,
+49243,,cache-misses:u,142227900,100.00,0.04,of all cache refs
+302591271,,cycles:u,135827700,100.00,,
+568892356,,instructions:u,135827700,100.00,1.88,insn per cycle
+41772524,,branches:u,135827700,100.00,,
+88018,,branch-misses:u,135827700,100.00,0.21,of all branches
+115824915,,cache-references:u,135827700,100.00,,
+43059,,cache-misses:u,135827700,100.00,0.04,of all cache refs
